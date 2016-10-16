@@ -1,3 +1,4 @@
+```html
 <div id="map" style="width: 100%; height: 400px;"> </div>
 
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
@@ -39,3 +40,4 @@
     initialize();
 
 </script>
+```
